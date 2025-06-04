@@ -6,3 +6,5 @@ You can move your mouse on the window and the angles of the arm are then calcula
 the joint next the mouse.
 
 The IK is solved using simple trigonmetry and the values and lengths can be adjusted to custom values in the code.
+
+![](/img/image.png)
